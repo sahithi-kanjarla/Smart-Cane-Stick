@@ -7,7 +7,8 @@ Obstacle Detection: The ultrasonic sensor detects obstacles in the vicinity of t
 Real-Time Feedback: The Arduino Uno processes sensor data and triggers the buzzer to alert the user about obstacles.
 Portable Design: Powered by a compact battery, making it easy to carry and use on the go.
 
-![Smart Cane Stick](C:\Users\acer\Downloads.jpg)
+![IMG_20240115_195106](https://github.com/sahithi-kanjarla/Smart-Cane-Stick/assets/139060052/b6eeac81-3a71-4995-93f5-6470866ccb11)
+
 
 How it Works
 The ultrasonic sensor emits ultrasonic waves to detect obstacles.
